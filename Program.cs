@@ -6,7 +6,11 @@ namespace Udemyyyyy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int x = 2;
+		    while(x < 0)
+		    {
+			    Console.WriteLine("hello");
+		    }   
         }
     }
 }
